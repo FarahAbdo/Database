@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.6.0
+  pdf_text: ^1.0.7
+  path_provider: ^2.0.8
+```
